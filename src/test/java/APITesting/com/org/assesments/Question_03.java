@@ -7,6 +7,13 @@ public class Question_03 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	
+		/*
+		 Sort an integer array
+		 -Define an integer array
+		 -sort all the values in descending order
+		 -print the values of the array
+		 */
+		
 		int[] array = {3,4,1,5,9};
 		int temp;
 		Arrays.sort(array);
